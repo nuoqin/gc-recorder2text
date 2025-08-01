@@ -1,6 +1,8 @@
 ## GC录音工具
+<p align="center">
+  <img width="316" height="389" alt="image" src="https://github.com/user-attachments/assets/b83d2906-5b10-44df-a41d-1db70b33fd85" />
+</p>
 
-<img width="316" height="389" alt="image" src="https://github.com/user-attachments/assets/b83d2906-5b10-44df-a41d-1db70b33fd85" />
 
 
 
