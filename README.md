@@ -1,5 +1,8 @@
 ## GC录音工具
 
+<img width="316" height="389" alt="image" src="https://github.com/user-attachments/assets/b83d2906-5b10-44df-a41d-1db70b33fd85" />
+
+
 
 ### 👉🏻 GC录音工具 👈🏻
 GC录音工具是一个运行在笔记本电脑上的应用程序，最初的设计初衷是为了在开会时进行录音记录。
